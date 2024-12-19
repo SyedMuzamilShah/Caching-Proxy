@@ -12,8 +12,9 @@
 0. **clone repo**
     ```bash
     git clone https://github.com/SyedMuzamilShah/Caching-Proxy.git
+    cd Caching-Proxy
     ```
-    * cloned the repository and navigate to the the folder `cd Caching-Proxy`
+    * cloned the repository and navigate to the the folder
 1. **Install dependences**
    ```bash
    npm i express axoss node-cache minimist axios
